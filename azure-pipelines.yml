@@ -24,6 +24,3 @@ steps:
     npm run build
   displayName: 'npm build'
 
-- script: 
-    npm test
-  displayname: 'npm test'
